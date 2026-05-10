@@ -1,11 +1,11 @@
 {
-	"id": "kanban-sync",
-	"name": "Kanban Sync",
-	"version": "1.0.0",
-	"description": "Sincroniza automaticamente el estado del Kanban con el frontmatter de las notas vinculadas",
-	"author": "Jorge Giovannelli",
-	"authorUrl": "",
-	"minAppVersion": "0.15.0",
-	"fundingUrl": "",
-	"isDesktopOnly": false
+  "id": "kanban-sync",
+  "name": "Kanban Sync",
+  "version": "1.0.0",
+  "description": "Syncs Kanban board state with note frontmatter.",
+  "author": "Jorge Giovannelli",
+  "authorUrl": "",
+  "minAppVersion": "0.15.0",
+  "fundingUrl": "",
+  "isDesktopOnly": false
 }
